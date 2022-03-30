@@ -1,4 +1,5 @@
 # Antibody Resources
+A repository aggregating current research on computational methods for antibody design
 
 ## ML-based Antibody Design
 - [ITERATIVE REFINEMENT GRAPH NEURAL NETWORK
